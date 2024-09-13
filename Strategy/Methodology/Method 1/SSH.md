@@ -1,7 +1,4 @@
 
-# SSH
-
-
 ![[Pasted image 20240910221206.png]]
 
 ![[Pasted image 20240910221303.png]]

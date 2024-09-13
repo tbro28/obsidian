@@ -18,53 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3af67670f01350b4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20240910220322.png"
-              }
-            }
-          },
-          {
-            "id": "7b9de41714a87af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methodology/Method 1/Hacking Methodology OSCP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f8b5c1c58935575",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20240910221730.png"
-              }
-            }
-          },
-          {
-            "id": "50f0789bb5d152de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Methodology/Method 1/Unknown Ports.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methodology/Method 1/Unknown Ports.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methodology/Method 1/Unknown Ports.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methodology/Method 1/Unknown Ports.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -200,29 +155,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50f0789bb5d152de",
+  "active": "cab6cc91dad0bd27",
   "lastOpenFiles": [
-    "images/Pasted image 20240910222813.png",
+    "images/Pasted image 20240910221730.png",
+    "Welcome.md",
     "Methodology/Method 1/Hacking Methodology OSCP.md",
+    "images/Pasted image 20240910220322.png",
+    "images/Pasted image 20240910220150.png",
+    "images/Pasted image 20240910222606.png",
+    "images/Pasted image 20240910221303.png",
+    "images/Pasted image 20240910220526.png",
+    "Methodology/Method 2/Hacking Methodology 2.md",
     "Methodology/Method 1/Unknown Ports.md",
     "Methodology/Method 1/SMB.md",
     "Methodology/Method 1/SSH.md",
-    "images/Pasted image 20240910222606.png",
+    "images/Pasted image 20240910222813.png",
     "images/Pasted image 20240910222542.png",
-    "Welcome.md",
-    "Methodology/Method 2/Hacking Methodology 2.md",
-    "images/Pasted image 20240910220150.png",
     "images/Pasted image 20240910221147.png",
-    "images/Pasted image 20240910221730.png",
     "images",
     "images/Pasted image 20240910220354.png",
     "Untitled.md",
-    "images/Pasted image 20240910221303.png",
-    "images/Pasted image 20240910221206.png",
     "Methodology/Method 2",
-    "images/Pasted image 20240910220526.png",
     "Methodology/Method 1",
-    "images/Pasted image 20240910220322.png",
     "Methodology",
     "New page"
   ]
